@@ -44,5 +44,5 @@ const onGalleryClick = (evt) => {
 createGallery.addEventListener('click', onGalleryClick)
 
 
-//console.log(galleryItems);
+console.log(galleryItems);
 
